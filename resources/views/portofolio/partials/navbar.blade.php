@@ -1,6 +1,6 @@
 <nav class="navbar">
     <div class="navbar-container">
-        <div class="logo">Portfolio</div>
+        <div class="logo">Portofolio</div>
         <ul class="nav-links">
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About</a></li>

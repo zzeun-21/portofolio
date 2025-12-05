@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio - Nama Anda</title>
+    <title>Portofolio - Nama Anda</title>
 
     {{-- CSS terpisah --}}
-    <link rel="stylesheet" href="{{ asset('css/portfolio.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/portofolio.css') }}">
 </head>
 <body>
     {{-- Navbar khusus layout --}}

@@ -1,7 +1,7 @@
 <div class="project-card">
-    <h3>Portfolio Website</h3>
+    <h3>Portofolio Website</h3>
     <p>
-        Website portfolio yang responsive dan modern dengan animasi yang smooth
+        Website portofolio yang responsive dan modern dengan animasi yang smooth
         dan design yang eye-catching.
     </p>
     <div class="project-tags">
