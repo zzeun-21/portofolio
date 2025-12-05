@@ -1,13 +1,12 @@
 <section class="hero" id="home">
     <div class="hero-content">
         <div class="hero-text">
-            <h1>Halo, Saya<br>Nama Anda</h1>
-            <h2>Web Developer & Designer</h2>
+            <h1>Hai, I'm<br>Azzuro Najma A.</h1>
+            <h2>Project Manajer & Web Developer</h2>
             <p>
-                Saya membuat website yang indah dan fungsional dengan teknologi modern.
-                Mari berkolaborasi untuk mewujudkan proyek digital Anda!
+                “With ‘One Step Every Day’ as my motto, I believes that consistent progress—no matter how small—can change one’s life.”
             </p>
-            <a href="#contact" class="cta-button">Hubungi Saya</a>
+            <a href="#contact" class="cta-button">Contact Me!</a>
         </div>
         <div class="hero-visual">
             <div class="floating-shapes">
